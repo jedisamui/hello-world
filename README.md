@@ -1,2 +1,3 @@
 # hello-world
-practice session
+
+A little bit about me.
